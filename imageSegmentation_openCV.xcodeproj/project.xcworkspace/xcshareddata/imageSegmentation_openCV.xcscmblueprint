@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6BED2828985208E2FB2BAC8FA47D53E026A425F6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "84A2798AEA98F4437FCC088617424F8F11653CDE" : 0,
+    "6BED2828985208E2FB2BAC8FA47D53E026A425F6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54D3A5B1-2817-416C-99CC-47E430E54941",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "84A2798AEA98F4437FCC088617424F8F11653CDE" : "",
+    "6BED2828985208E2FB2BAC8FA47D53E026A425F6" : "GrabCutIOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "imageSegmentation_openCV",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "imageSegmentation_openCV.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RajeshThevar\/OpenCV-functions.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6BED2828985208E2FB2BAC8FA47D53E026A425F6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rajeshthevar\/REPOSITORY.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "84A2798AEA98F4437FCC088617424F8F11653CDE"
+    }
+  ]
+}
